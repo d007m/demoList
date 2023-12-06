@@ -1,3 +1,6 @@
+#DemoList
+This an app for demonstrating A list after signing in on the Login Screen and being able tto add addition items that are held in a Redux store. Reat Navigation is being used to Navigate between the Loing Screen and the Dashbooad screen.
+
 # Project Setup and Instructions:
 Dependencies:
 React Native: Make sure you have React Native installed on your system. You can follow the official React Native documentation for installation instructions: https://reactnative.dev/docs/environment-setup
