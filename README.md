@@ -1,5 +1,5 @@
 # DemoList
-A basic app for showing A list of Fruits from a local data. After signing in on the Login Screen and you are able to add additional items that are held in a Redux store. React Naive Navigation is being used to Navigate between the Login Screen and the Dashbooad screen. Any email or Passord (not less than 8 characters) can. A basic error handling is implemented. 
+A basic app for showing A list of Fruits from a local data. After signing in on the Login Screen, one are able to also add additional items that are held in a Redux store. React Naive Navigation is being used to Navigate between the Login Screen and the Dashbooad screen. Any email or Passord (not less than 8 characters) can. A basic error handling is implemented. 
 
 # Project Setup and Instructions:
 Dependencies:
