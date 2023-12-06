@@ -1,0 +1,79 @@
+{ 
+  "items":[
+  {
+     "id":1,
+     "name":"Apple",
+     "description":"A delicious fruit with a crisp texture."
+  },
+  {
+     "id":2,
+     "name":"Banana",
+     "description":"A tropical fruit with a yellow skin."
+  },
+  {
+     "id":3,
+     "name":"Orange",
+     "description":"A citrus fruit with a sweet and tangy flavor."
+  },
+  {
+     "id":4,
+     "name":"Grapes",
+     "description":"Small, sweet, and juicy berries often used for making wine."
+  },
+  {
+     "id":5,
+     "name":"Strawberry",
+     "description":"A red, juicy berry often used in desserts."
+  },
+  {
+     "id":6,
+     "name":"Blueberry",
+     "description":"Small, dark-blue or purple berries known for their antioxidants."
+  },
+  {
+     "id":7,
+     "name":"Mango",
+     "description":"A tropical fruit with a sweet and juicy flesh."
+  },
+  {
+     "id":8,
+     "name":"Pineapple",
+     "description":"A tropical fruit with a spiky exterior and sweet, tangy taste."
+  },
+  {
+     "id":9,
+     "name":"Watermelon",
+     "description":"Large, juicy fruit with green rind and sweet, pink flesh."
+  },
+  {
+     "id":10,
+     "name":"Kiwi",
+     "description":"Small, green fruit with a tangy and slightly sweet flavor."
+  },
+  {
+     "id":11,
+     "name":"Peach",
+     "description":"A soft, fuzzy fruit with a sweet and fragrant taste."
+  },
+  {
+     "id":12,
+     "name":"Cherry",
+     "description":"Small, round fruit with sweet or tart flavors."
+  },
+  {
+     "id":13,
+     "name":"Pear",
+     "description":"A sweet and juicy fruit with a distinctive shape."
+  },
+  {
+     "id":14,
+     "name":"Plum",
+     "description":"A small, round fruit with a sweet or tart taste."
+  },
+  {
+     "id":15,
+     "name":"Grapefruit",
+     "description":"Large, citrus fruit known for its tart flavor."
+  }
+]
+}
