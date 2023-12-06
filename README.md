@@ -9,7 +9,7 @@ or
 ```bash
 yarn add redux react-redux
 ```
-# React Navigation: React Navigation is used for navigation between screens. Install it using npm or yarn:
+React Navigation: React Navigation is used for navigation between screens. Install it using npm or yarn:
 ```bash
 npm install @react-navigation/native @react-navigation/stack react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/viewpager
 ```
