@@ -1,5 +1,5 @@
 # DemoList
-This an app for demonstrating A list after signing in on the Login Screen and being able tto add addition items that are held in a Redux store. Reat Navigation is being used to Navigate between the Loing Screen and the Dashbooad screen.
+This an app for showing A list of Fruits from a local data. After signing in on the Login Screen and being able tto add addition items that are held in a Redux store. React Naive Navigation is being used to Navigate between the Loing Screen and the Dashbooad screen. You can use any email or Passord (not less than 8 characters). A basic error handling is implemented. 
 
 # Project Setup and Instructions:
 Dependencies:
